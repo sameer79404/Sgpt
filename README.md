@@ -33,7 +33,7 @@ except ImportError:
 
 import json
 
-API_KEY = "sk_dlfv5m66_La4cv4twEKJTTFumb54xRKPH"
+API_KEY = "sk_8ji4da4b_cvLKO3yrBz6eXa4qT7kyhZ4A"
 API_URL = "https://api.sarvam.ai/v1/chat/completions"
 
 BANNER = """
